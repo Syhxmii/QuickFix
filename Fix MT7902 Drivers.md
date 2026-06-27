@@ -1,5 +1,3 @@
-Berikut adalah versi *raw plaintext* dalam format Markdown asli yang siap Anda salin (`Copy`) dan tempel (`Paste`) langsung ke dalam berkas `README.md` atau `tutorial.md` di repositori GitHub Anda:
-
 # Panduan Perbaikan Wi-Fi & Bluetooth MediaTek MT7902 di Fedora (Kernel 6.17)
 
 Panduan ini ditujukan untuk memperbaiki fungsionalitas Wi-Fi dan Bluetooth pada laptop dengan chipset **MediaTek MT7902** di Fedora Workstation yang mengalami masalah setelah pembaruan kernel sistem (misalnya ke Kernel 7.0+). 
